@@ -1,0 +1,7 @@
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\bin\Debug\DemoJenkin.exe.config
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\bin\Debug\DemoJenkin.exe
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\bin\Debug\DemoJenkin.pdb
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\obj\Debug\DemoJenkin.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\obj\Debug\DemoJenkin.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\obj\Debug\DemoJenkin.exe
+F:\ContentDevelopment\IIHT\CTS\DN-20\DemoJenkin\DemoJenkin\obj\Debug\DemoJenkin.pdb
